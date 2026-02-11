@@ -1,0 +1,1 @@
+const filterAdults = (people) => people.filter(person => person.age >= 18);
